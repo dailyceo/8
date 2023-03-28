@@ -288,32 +288,9 @@ function App() {
 
 
 
-            <s.SpacerLarge />
-            <s.TextDescription
-              style={{
-                textAlign: "center",
-                fontSize: 40,
-                //fontWeight: "bold",
-                color: "var(--primary)",
-              }}
-            >
-              Mint Mar 28, 13:00 UTC
-            </s.TextDescription>
 
 
 
-
-
-            <s.TextDescription
-              style={{
-                textAlign: "center",
-                fontSize: 40,
-                //fontWeight: "bold",
-                color: "var(--primary)",
-              }}
-            >
-              MINT OPEN
-            </s.TextDescription>
 
 
 
