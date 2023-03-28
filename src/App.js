@@ -12,7 +12,7 @@ export const StyledButton = styled.button`
   padding: 10px;
   border-radius: 25px;
   border: var(--primary);
-  background-color: var(--primary);
+  background-color: var(--primary-text);
   padding: 10px;
   font-weight: bold;
   font-size: 20px;
@@ -37,7 +37,7 @@ export const StyledRoundButton = styled.button`
   padding: 10px;
   border-radius: 100%;
   border: none;
-  background-color: var(--primary);
+  background-color: var(--primary-text);
   padding: 10px;
   font-weight: bold;
   font-size: 25px;
@@ -263,6 +263,12 @@ function App() {
             <s.SpacerLarge />
             <s.SpacerLarge />
             <s.SpacerLarge /> */}
+            <s.SpacerLarge />
+            <s.SpacerLarge />
+            <s.SpacerLarge />
+            <s.SpacerLarge />
+            <s.SpacerLarge />
+            <s.SpacerLarge />
 
 
             <s.TextDescription
