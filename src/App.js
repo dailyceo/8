@@ -273,7 +273,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Rare and unique
+              Vexa's exclusive Cubex Collection
 
             </s.TextDescription>
 
