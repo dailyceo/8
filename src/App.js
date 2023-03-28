@@ -349,7 +349,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              CUBEX minted: {data.totalSupply}
+              CUBEX minted: {data.totalSupply-1}
             </s.TextTitle>
 
 
@@ -372,7 +372,7 @@ function App() {
 
 
 
-            {Number(data.totalSupply) >= CONFIG.MAX_SUPPLY ? (
+            {Number(data.totalSupply)-1 >= CONFIG.MAX_SUPPLY ? (
               <>
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--primary-text)" }}
